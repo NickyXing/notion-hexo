@@ -6,7 +6,7 @@ on:
 #    branches:
 #      - master
   # 允许外部仓库事件触发
-  repository_dispatch:
+  repository_dispatch: nickyx956
     types:
       - deploy
 
